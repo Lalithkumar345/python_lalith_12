@@ -1,0 +1,3 @@
+c is a programming language
+ java is a programming language
+c++ is static language
